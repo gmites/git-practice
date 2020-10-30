@@ -1,2 +1,3 @@
-cd Grace
-Prueba
+3
+2
+1
